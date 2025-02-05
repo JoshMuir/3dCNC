@@ -4,6 +4,12 @@ This will be tested using a kuka robot and some generic model.
 
 My goal is to learn about the CNC manufacturing process, and gain an appreciation for Computer-Aided Manufacturing(CAM)
 
+I am aware of some existing tools that I may explore, such as 
+https://github.com/WillAdams/gcodepreview
+https://carbide3d.com/carbidecreate/
+
+
+
 An explanation of the code by copilot: 
 ```
 
